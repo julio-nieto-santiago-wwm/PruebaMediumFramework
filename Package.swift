@@ -17,8 +17,8 @@ let package = Package(
     targets: [
 	.binaryTarget(
   	  name: "MediumFramework",
-  	  url: "https://github.com/realm/SwiftLint/releases/download/0.49.1/SwiftLintBinary-macos.artifactbundle.zip",
-  	  checksum: "227258fdb2f920f8ce90d4f08d019e1b0db5a4ad2090afa012fd7c2c91716df3"
+  	  url: "https://github.com/julio-nieto-santiago-wwm/PruebaMediumFramework/blob/fb310234902a2f7b70946c63f89162e707c1e4b2/MediumFramework.xcframework.zip",
+  	  checksum: "b046940540e6770293f8d6b14a4a3f9edfccf5c1f855d000bdba9f2630599bf8"
 	)
     ]
 )
