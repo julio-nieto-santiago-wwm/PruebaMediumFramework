@@ -17,8 +17,8 @@ let package = Package(
     targets: [
 	.binaryTarget(
   	  name: "MediumFramework",
-  	  url: "https://github.com/julio-nieto-santiago-wwm/PruebaMediumFramework/blob/fb310234902a2f7b70946c63f89162e707c1e4b2/MediumFramework.xcframework.zip",
-  	  checksum: "b046940540e6770293f8d6b14a4a3f9edfccf5c1f855d000bdba9f2630599bf8"
+  	  url: "https://github.com/julio-nieto-santiago-wwm/PruebaMediumFramework/blob/4ceacc51a5420ec194cf37efc0ed9bb4a9d4728d/MediumFramework.zip",
+  	  checksum: "ddf8785bb3266c76ccf7c2af247a5cdb3a01fb062f4abbeac91e47bf801136e4"
 	)
     ]
 )
